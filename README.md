@@ -6,7 +6,8 @@ Cool online books/docs/projects/websites I've found.
 Project is led by Gabriele Carcassi and Christine Aidala from UMich. They also have a free online [book](https://www.fulcrum.org/concern/monographs/tx31qm110)
 
 > What do the basic laws of physics describe? Why is the state of a classical particle identified by position and momentum (i.e. a point on a cotangent bundle) while the state of a quantum system is identified by a wave function (i.e. a vector in a Hilbert space)? Could we have had different laws?
-> The project aims to identify a handful of physical principles from which the basic laws can be rigorously derived.
+> 
+> **The project aims to identify a handful of physical principles from which the basic laws can be rigorously derived.**
 
 ## [Collapse OS](https://collapseos.org/)
 
