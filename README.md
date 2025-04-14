@@ -12,3 +12,7 @@ Project is led by Gabriele Carcassi and Christine Aidala from UMich. They also h
 ## [Collapse OS](https://collapseos.org/)
 
 The site has links to other cool websites, many of which I will also list here.
+
+## [nLab](https://ncatlab.org/nlab/show/HomePage)
+
+> This is a wiki for collaborative work on Mathematics, Physics, and Philosophy — especially (but far from exclusively) from the higher structures point of view: with a sympathy towards the tools and perspectives of homotopy theory/algebraic topology, homotopy type theory, higher category theory and higher categorical algebra.
